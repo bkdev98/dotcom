@@ -1,7 +1,7 @@
 import React from 'react'
 import { ExternalLink } from 'react-feather'
 
-const WorkExperience = ({ title, companyName, companyUrl, time, location }) => (
+const WorkExperience = ({ title, companyName, companyUrl, time, location, description, detail }) => (
   <div style={{ marginBottom: 20 }}>
     <div style={{ position: 'relative' }}>
       <div style={{ position: "absolute", left: -60, top: 0, width: 20, height: '100%', background: '#333' }} />
@@ -12,11 +12,9 @@ const WorkExperience = ({ title, companyName, companyUrl, time, location }) => (
       <span>{time}</span>
       <span>{location}</span>
     </div>
-    <p>Voluptate mollit cillum occaecat sint aliquip ex eu laboris pariatur. Eiusmod enim consectetur sit pariatur tempor est ut laborum.</p>
+    <p>{description}</p>
     <ul>
-      <li>Proident adipisicing dolore ut deserunt.</li>
-      <li>Fugiat tempor labore commodo dolor mollit occaecat tempor consequat.</li>
-      <li>Occaecat voluptate aute ea et esse ipsum consectetur.</li>
+      {detail.map((item, idx) => <li key={idx}>{item}</li>)}
     </ul>
   </div>
 );

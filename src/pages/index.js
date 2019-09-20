@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import WorkExperience from "../components/work-experience"
 import Skill from "../components/skill"
 import Project from "../components/project"
+import Reference from "../components/reference"
 
 import data from "../data.json"
 
@@ -49,6 +50,13 @@ const IndexPage = () => (
         {data.workExperiences.map(item => (
           <WorkExperience
             key={item.title}
+            {...item}
+          />
+        ))}
+        <h3>REFERENCES</h3>
+        {data.references.map(item => (
+          <Reference
+            key={item.name}
             {...item}
           />
         ))}
