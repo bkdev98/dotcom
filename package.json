@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "buiquockhanh.com",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "My resume",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Quoc Khanh <bkdev98@gmail.com>",
   "dependencies": {
     "gatsby": "^2.15.19",
     "gatsby-image": "^2.2.20",
@@ -16,6 +16,8 @@
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-feather": "^2.0.3",
+    "react-flexbox-grid": "^2.1.2",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
@@ -35,9 +37,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/bkdev98/buiquockhanh.com"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/bkdev98/buiquockhanh.com/issues"
   }
 }

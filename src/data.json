@@ -1,0 +1,70 @@
+{
+  "workExperiences": [{
+      "title": "Senior Software Engineer",
+      "companyName": "Innoteq Co., Ltd.",
+      "companyUrl": "https://innoteq.vn",
+      "time": "04/2018 - Present",
+      "location": "Ho Chi Minh City, Vietnam"
+    },
+    {
+      "title": "Full-stack Developer",
+      "companyName": "Hisoft JSC",
+      "companyUrl": "https://hisoft.vn",
+      "time": "11/2017 - 04/2018",
+      "location": "Ho Chi Minh City, Vietnam"
+    },
+    {
+      "title": "Front-end Web Developer",
+      "companyName": "Thich Lam Moc",
+      "companyUrl": "https://storelammoc.vn",
+      "time": "03/2017 - 11/2018",
+      "location": "Ho Chi Minh City, Vietnam"
+    }
+  ],
+  "skills": [
+    "ReactJS",
+    "React Native",
+    "Redux",
+    "Styled Components",
+    "Gatsby",
+    "NodeJS",
+    "Electron",
+    "Mongoose",
+    "Express",
+    "SocketIO",
+    "GraphQL",
+    "Webpack",
+    "Ant Design"
+  ],
+  "projects": [{
+      "title": "Innoteq CRM",
+      "time": "2019",
+      "url": "https://crm.innoteq.vn"
+    },
+    {
+      "title": "Innoteq POS",
+      "time": "2018 - 2019",
+      "url": "https://phanmemquanlytinhtien.com"
+    },
+    {
+      "title": "QTSC OMS",
+      "time": "11/2017 - 04/2018",
+      "url": "http://oms.qtsc.com.vn"
+    },
+    {
+      "title": "qckhnh.com",
+      "time": "2018 - 2019",
+      "url": "https://qckhnh.com"
+    },
+    {
+      "title": "Ipeedy",
+      "time": "2017",
+      "url": "https://ipeedy.com"
+    },
+    {
+      "title": "React Native Boilerplate",
+      "time": "2017",
+      "url": "https://github.com/ipeedy/react-native-boilerplate"
+    }
+  ]
+}
