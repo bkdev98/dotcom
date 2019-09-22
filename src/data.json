@@ -10,7 +10,8 @@
         "Built from scratch an online Customer Relationship Management system for companies at scales.",
         "Developed and maintained a cross-platform Point of Sale solution, including receipt and inventory management.",
         "Built several e-commerce systems for multiple client requirements using MERN stack.",
-        "Designed and developed a responsive & SEO optimized landing page system for a real-estate company, using Gatsby and NetlifyCMS."
+        "Designed and developed a responsive & SEO optimized landing page system for a real-estate company, using Gatsby and NetlifyCMS.",
+        "Organized training workshops and seminars about React & NodeJS for internships."
       ]
     },
     {
@@ -19,11 +20,12 @@
       "companyUrl": "https://hisoft.vn",
       "time": "11/2017 - 04/2018",
       "location": "Ho Chi Minh City, Vietnam",
-      "description": "Design and develop a cross-platform mobile application for an existence OMS system of QTSC.",
+      "description": "Design and develop a cross-platform mobile application for an existence OMS system at QTSC.",
       "detail": [
-        "Cross-platform mobile app using React Native.",
-        "Working with real-time messaging, Google calendar API, localization and push notification.",
-        "Addition backend using NodeJS and MongoDB."
+        "Cross-platform mobile app using React Native & Redux.",
+        "Design modern mobile UI for both Android and iOS with dark mode supported.",
+        "Working with real-time messaging, Google calendar API, optimistic UI, localization and push notification.",
+        "Develop additional backend using NodeJS, SocketIO and MongoDB."
       ]
     },
     {

@@ -24,15 +24,15 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Resume" />
     <Row>
-      <Col xl={6} md={8} sm={12}>
-        <h1>Bui Quoc Khanh</h1>
+      <Col xs={8}>
+        <h1>BUI QUOC KHANH</h1>
         <h4>Senior Software Engineer</h4>
         <p>
           Experienced full-stack developer with 2.5+ years in developing and managing modern web and mobile apps
           with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
         </p>
       </Col>
-      <Col xl={6} md={4} sm={12}>
+      <Col xs={4}>
         <div style={{ textAlign: 'right', lineHeight: '30px' }}>
           <p><a href="mailto:bkdev98@gmail.com">bkdev98@gmail.com</a><Mail {...iconProps} /></p>
           <p><a href="tel:+84949840370">+84-949840370</a><Phone {...iconProps} /></p>
@@ -45,7 +45,7 @@ const IndexPage = () => (
     </Row>
     <hr />
     <Row>
-      <Col xl={5} sm={12}>
+      <Col xs={5.5}>
         <h3>WORK EXPERIENCE</h3>
         {data.workExperiences.map(item => (
           <WorkExperience
@@ -61,7 +61,7 @@ const IndexPage = () => (
           />
         ))}
       </Col>
-      <Col xl={6} xlOffset={1} sm={12}>
+      <Col xs={5.5} xsOffset={1}>
         <h3>SKILLS</h3>
         <div style={{ marginBottom: 20 }}>
           {data.skills.map(item => <Skill key={item}>{item}</Skill>)}
