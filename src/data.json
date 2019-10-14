@@ -57,6 +57,16 @@
     "Ant Design"
   ],
   "projects": [{
+      "title": "Frezh - Air quality tracker",
+      "time": "10/2019",
+      "url": "https://frezh.org",
+      "detail": [
+        "Track air quality data all over the world in minimalist design.",
+        "Made with Expo & used data from OpenAQ.",
+        "Available on both Google Play and App Store."
+      ]
+    },
+    {
       "title": "Innoteq CRM",
       "time": "present",
       "url": "https://crm.innoteq.vn",
@@ -67,7 +77,7 @@
     },
     {
       "title": "Cold Brew",
-      "time": "2019",
+      "time": "04/2019",
       "url": "https://coldbrewapp.com",
       "detail": [
         "Cross-platform mobile app for bill management.",
