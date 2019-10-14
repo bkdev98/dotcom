@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
       <div>
         <div style={{ margin: 20, border: '1.5px solid #333', padding: 20, textAlign: 'center' }}>
           <h3>I AM SORRY</h3>
-          <p>Currently, this page is not supported screen width less than 809px. Try again later or use another device.</p>
+          <p>Currently, this page is not supported screen width less than 0px. Try again later or use another device.</p>
         </div>
         <footer style={{
           textAlign: 'center',
