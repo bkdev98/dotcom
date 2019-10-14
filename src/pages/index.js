@@ -33,7 +33,7 @@ const IndexPage = () => {
           <h1>BUI QUOC KHANH</h1>
           <h4>Senior Software Engineer</h4>
           <p>
-            Experienced full-stack developer with 2.5+ years in developing and managing modern web and mobile apps
+            Experienced full-stack developer with 3.5+ years in developing and managing modern web and mobile apps
             with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
           </p>
         </Col>

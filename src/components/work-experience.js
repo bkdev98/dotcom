@@ -9,7 +9,7 @@ const WorkExperience = ({ title, companyName, companyUrl, time, location, descri
   return (
     <div style={{ marginBottom: 20 }}>
       <div style={{ position: 'relative' }}>
-        <div style={{ position: "absolute", left: width >= 809 ? -60 : -42, top: 0, width: 20, height: '100%', background: '#333' }} />
+        <div style={{ position: "absolute", left: width >= 809 ? -62 : -42, top: 0, width: 22, height: '100%', background: '#333' }} />
         <h5 style={{ marginBottom: 5 }}>{title}</h5>
         <a href={companyUrl}>{companyName}<ExternalLink color='#333' size={14} style={{ marginLeft: 5, verticalAlign: 'middle' }} /></a>
       </div>
