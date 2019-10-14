@@ -9,7 +9,8 @@ const Layout = ({ children }) => {
   const componentRef = useRef(null);
   const { width } = useWindowSize();
 
-  if (width < 809) {
+  // if (width < 809) {
+  if (width < 0) {
     return (
       <div>
         <div style={{ margin: 20, border: '1.5px solid #333', padding: 20, textAlign: 'center' }}>
@@ -37,6 +38,11 @@ const Layout = ({ children }) => {
         <main
           ref={componentRef}
           className="print-area"
+          style={width >= 809 ? {
+            padding: '40px 60px',
+          } : {
+            padding: '20px 20px',
+          }}
         >
           {children}
         </main>
@@ -46,12 +52,12 @@ const Layout = ({ children }) => {
           fontSize: 13,
         }}>
           <span style={{ marginRight: 20 }}><a href="https://github.com/bkdev98/resume">Edit on Github</a></span>
-          <span style={{ marginRight: 20 }}>
+          {width >= 809 && <span style={{ marginRight: 20 }}>
             <ReactToPrint
               trigger={() => <a href="#">Print this out</a>} // eslint-disable-line
               content={() => componentRef.current}
             />
-          </span>
+          </span>}
           <span style={{ marginRight: 20 }}>Made with <a href="https://www.gatsbyjs.org">Gatsby</a></span>
         </footer>
       </div>
