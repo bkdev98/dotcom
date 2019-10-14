@@ -1,21 +1,11 @@
-import React from 'react';
+import styled from 'styled-components'
 
-import useWindowSize from '../hooks/useWindowSize';
-
-const Row = ({ style, ...props }) => {
-  const { width } = useWindowSize();
-  return (
-    <div
-      {...props}
-      style={{
-        ...style,
-        display: 'flex',
-        width: '100%',
-        flexDirection: width >= 809 ? 'row' : 'column',
-        justifyContent: 'space-between',
-      }}
-    />
-  );
-}
-
-export default Row;
+export default styled.div`
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-direction: row;
+  @media (max-width: 808px) {
+    flex-direction: column;
+  }
+`
