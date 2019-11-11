@@ -132,6 +132,7 @@ projects:
     title: React Native Boilerplate
     time: '2017'
 skills:
+  - title: React Native
   - title: ReactJS
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
