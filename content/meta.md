@@ -21,6 +21,17 @@ references:
     email: duong@targeek.io
     phone: 0979477635
 workExperiences:
+  - title: Front-end Web Developer
+    companyName: Thich Lam Moc
+    companyUrl: 'https://storelammoc.vn/'
+    time: 03/2017 - 11/2017
+    location: 'Ho Chi Minh City, Vietnam'
+    description: >-
+      Develop UI for an e-commerce system to manage customers, suppliers,
+      agencies & products.
+    detail: |-
+      * Create the admin dashboard using MaterialUI and ReactJS.
+      * Working with microservice architecture.
   - title: Full-stack Developer
     companyName: Hisoft JSC
     companyUrl: 'https://hisoft.vn'
