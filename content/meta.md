@@ -8,17 +8,17 @@ website: buiquockhanh.com
 linkedin: linkedin.com/in/bkdev98
 github: github.com/bkdev98
 references:
-  - name: Do Cao Thuong Duong
-    position: Founder & CTO at Targeek JSC
-    email: duong@targeek.io
-    phone: 0979477635
-  - name: Ngo Dang Ha An
-    position: General Manager at Hisoft JSC
-    email: an.ngo@hisoft.vn
-    phone: 0906782333
   - name: Bui Thanh Khoa
     position: 'Chief Executive Officer at Innoteq Co., Ltd.'
     email: khoabt@innoteq.vn
     phone: 0948091402
+  - name: Ngo Dang Ha An
+    position: General Manager at Hisoft JSC
+    email: an.ngo@hisoft.vn
+    phone: 0906782333
+  - position: Founder & CTO at Targeek JSC
+    email: duong@targeek.io
+    phone: 0979477635
+    name: Do Cao Thuong Duong
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
