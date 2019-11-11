@@ -132,7 +132,19 @@ projects:
     title: React Native Boilerplate
     time: '2017'
 skills:
-  - title: React Native
   - title: ReactJS
+  - title: React Native
+  - title: NodeJS
+  - title: Redux
+  - title: Electron
+  - title: Expo
+  - title: GraphQL
+  - title: SocketIO
+  - title: Gatsby
+  - title: Express
+  - title: Styled Components
+  - title: Ant Design
+  - title: Mongoose
+  - title: Webpack
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
