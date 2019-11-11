@@ -80,7 +80,7 @@ projects:
 
       * Managing invoice, customer & inventory.
 
-      * -Android and iOS app for staffs to create invoices remotely.
+      * Android and iOS app for staffs to create invoices remotely.
   - title: VisCRM
     url: 'https://crm.innoteq.vn'
     time: Present
