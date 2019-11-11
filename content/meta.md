@@ -71,6 +71,12 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Ipeedy
+    time: '2017'
+    url: 'https://ipeedy.com'
+    detail: |-
+      * An Uber-like mobile app, create a market for small business.
+      * Built with React Native & GraphQL.
   - title: qckhnh.com
     time: 2018 - present
     url: 'https://qckhnh.com'
