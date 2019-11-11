@@ -70,5 +70,14 @@ workExperiences:
     detail: |-
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
+projects:
+  - title: VisCRM
+    url: 'https://crm.innoteq.vn'
+    time: Present
+    detail: >-
+      * Customer Relationship Management system for companies at scales.
+
+      * Used React and Ant Design for front-end and Express with Mongoose for
+      back-end.
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
