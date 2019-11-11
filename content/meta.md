@@ -71,6 +71,14 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: React Native Boilerplate
+    url: 'https://github.com/ipeedy/react-native-boilerplate'
+    detail: >-
+      * A React Native boilerplate with Expo, Redux, React Navigation and Styled
+      Components.
+
+      * My highest-star project on Github.
+    time: '2017'
   - title: Ipeedy
     time: '2017'
     url: 'https://ipeedy.com'
