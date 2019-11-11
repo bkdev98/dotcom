@@ -7,5 +7,10 @@ address: 'Ho Chi Minh City, Vietnam'
 website: buiquockhanh.com
 linkedin: linkedin.com/in/bkdev98
 github: github.com/bkdev98
+references:
+  - name: Bui Thanh Khoa
+    position: 'Chief Executive Officer at Innoteq Co., Ltd.'
+    email: khoabt@innoteq.vn
+    phone: 0948091402
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
