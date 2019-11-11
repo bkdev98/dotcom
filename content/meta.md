@@ -71,6 +71,13 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Cold Brew
+    time: 04/2019
+    url: 'https://coldbrewapp.com'
+    detail: |-
+      * Cross-platform mobile app for bill management.
+      * Using Google Vision API to process bill data.
+      * Split bill & share with friends.
   - title: Frezh - Air quality tracker
     time: 10/2019
     url: 'https://frezh.org'
