@@ -71,6 +71,16 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Innoteq POS
+    url: 'https://phanmemquanlytinhtien.com'
+    time: 2018 - 2019
+    detail: >-
+      * Cross-platform Point of Sale system for restaurants, coffee shops and
+      grocery stores.
+
+      * Managing invoice, customer & inventory.
+
+      * -Android and iOS app for staffs to create invoices remotely.
   - title: VisCRM
     url: 'https://crm.innoteq.vn'
     time: Present
