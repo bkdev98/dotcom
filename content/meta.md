@@ -71,56 +71,6 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
-  - detail: >-
-      * A React Native boilerplate with Expo, Redux, React Navigation and Styled
-      Components.
-
-      * My highest-star project on Github.
-    url: 'https://github.com/ipeedy/react-native-boilerplate'
-    title: React Native Boilerplate
-    time: '2017'
-  - title: Ipeedy
-    time: '2017'
-    url: 'https://ipeedy.com'
-    detail: |-
-      * An Uber-like mobile app, create a market for small business.
-      * Built with React Native & GraphQL.
-  - title: qckhnh.com
-    time: 2018 - present
-    url: 'https://qckhnh.com'
-    detail: |-
-      * My writings about tech and life.
-      * Used JAMStack (Gatsby & Netlify CMS).
-  - title: QTSC OMS
-    detail: >-
-      * Operations Management Suite mobile for Quang Trung Software City.
-
-      * Used React Native with real-time messaging, Google calendar API,
-      localization & push notification.
-    url: 'http://oms.qtsc.com.vn'
-    time: 11/2017 - 04/2018
-  - title: Cold Brew
-    url: 'https://coldbrewapp.com'
-    time: 04/2019
-    detail: |-
-      * Cross-platform mobile app for bill management.
-      * Using Google Vision API to process bill data.
-      * Split bill & share with friends.
-  - title: Innoteq CRM
-    time: present
-    url: 'https://crm.innoteq.vn'
-    detail: >-
-      * Customer Relationship Management system for companies at scales.
-
-      * Used React and Ant Design for front-end and Express with Mongoose for
-      back-end.
-  - title: Frezh - Air quality tracker
-    url: 'https://frezh.org'
-    time: 10/2019
-    detail: |-
-      * Track air quality data all over the world in minimalist design.
-      * Made with Expo & used data from OpenAQ.
-      * Available on both Google Play and App Store.
   - title: VisCRM
     url: 'https://crm.innoteq.vn'
     time: Present
@@ -139,6 +89,48 @@ projects:
       * Managing invoice, customer & inventory.
 
       * Android and iOS app for staffs to create invoices remotely.
+  - title: Frezh - Air quality tracker
+    url: 'https://frezh.org'
+    time: 10/2019
+    detail: |-
+      * Track air quality data all over the world in minimalist design.
+      * Made with Expo & used data from OpenAQ.
+      * Available on both Google Play and App Store.
+  - title: QTSC OMS
+    detail: >-
+      * Operations Management Suite mobile for Quang Trung Software City.
+
+      * Used React Native with real-time messaging, Google calendar API,
+      localization & push notification.
+    url: 'http://oms.qtsc.com.vn'
+    time: 11/2017 - 04/2018
+  - title: qckhnh.com
+    time: 2018 - present
+    url: 'https://qckhnh.com'
+    detail: |-
+      * My writings about tech and life.
+      * Used JAMStack (Gatsby & Netlify CMS).
+  - title: Cold Brew
+    url: 'https://coldbrewapp.com'
+    time: 04/2019
+    detail: |-
+      * Cross-platform mobile app for bill management.
+      * Using Google Vision API to process bill data.
+      * Split bill & share with friends.
+  - title: Ipeedy
+    time: '2017'
+    url: 'https://ipeedy.com'
+    detail: |-
+      * An Uber-like mobile app, create a market for small business.
+      * Built with React Native & GraphQL.
+  - detail: >-
+      * A React Native boilerplate with Expo, Redux, React Navigation and Styled
+      Components.
+
+      * My highest-star project on Github.
+    url: 'https://github.com/ipeedy/react-native-boilerplate'
+    title: React Native Boilerplate
+    time: '2017'
 skills:
   - title: ReactJS
 ---
