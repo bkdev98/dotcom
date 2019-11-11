@@ -71,6 +71,13 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Frezh - Air quality tracker
+    time: 10/2019
+    url: 'https://frezh.org'
+    detail: |-
+      * Track air quality data all over the world in minimalist design.
+      * Made with Expo & used data from OpenAQ.
+      * Available on both Google Play and App Store.
   - title: Innoteq POS
     url: 'https://phanmemquanlytinhtien.com'
     time: 2018 - 2019
