@@ -89,47 +89,7 @@ projects:
       * Managing invoice, customer & inventory.
 
       * Android and iOS app for staffs to create invoices remotely.
-  - title: Frezh - Air quality tracker
-    time: 10/2019
-    url: 'https://frezh.org'
-    detail: |-
-      * Track air quality data all over the world in minimalist design.
-      * Made with Expo & used data from OpenAQ.
-      * Available on both Google Play and App Store.
-  - title: QTSC OMS
-    time: 11/2017 - 04/2018
-    url: 'http://oms.qtsc.com.vn'
-    detail: >-
-      * Operations Management Suite mobile for Quang Trung Software City.
-
-      * Used React Native with real-time messaging, Google calendar API,
-      localization & push notification.
-  - title: qckhnh.com
-    time: 2018 - present
-    detail: |-
-      * "My writings about tech and life.
-      * Used JAMStack (Gatsby & Netlify CMS).
-    url: 'https://qckhnh.com'
-  - title: Cold Brew
-    time: 04/2019
-    url: 'https://coldbrewapp.com'
-    detail: |-
-      * Cross-platform mobile app for bill management.
-      * Using Google Vision API to process bill data.
-      * Split bill & share with friends.
-  - title: Ipeedy
-    time: '2017'
-    url: 'https://ipeedy.com'
-    detail: |-
-      * An Uber-like mobile app, create a market for small business.
-      * Built with React Native & GraphQL.
-  - title: React Native Boilerplate
-    url: 'https://github.com/ipeedy/react-native-boilerplate'
-    detail: >-
-      * A React Native boilerplate with Expo, Redux, React Navigation and Styled
-      Components.
-
-      * My highest-star project on Github.
-    time: '2017'
+skills:
+  - title: ReactJS
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
