@@ -5,26 +5,31 @@
   "version": "0.1.0",
   "author": "Quoc Khanh <bkdev98@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.15.19",
-    "gatsby-image": "^2.2.20",
-    "gatsby-plugin-google-analytics": "^2.1.17",
-    "gatsby-plugin-manifest": "^2.2.18",
-    "gatsby-plugin-offline": "^3.0.8",
-    "gatsby-plugin-react-helmet": "^3.1.8",
-    "gatsby-plugin-sharp": "^2.2.25",
-    "gatsby-plugin-styled-components": "^3.1.9",
-    "gatsby-source-filesystem": "^2.1.25",
-    "gatsby-transformer-sharp": "^2.2.16",
+    "gatsby": "^2.17.11",
+    "gatsby-image": "^2.2.31",
+    "gatsby-plugin-google-analytics": "^2.1.25",
+    "gatsby-plugin-manifest": "^2.2.27",
+    "gatsby-plugin-offline": "^3.0.19",
+    "gatsby-plugin-react-helmet": "^3.1.14",
+    "gatsby-plugin-sharp": "^2.2.37",
+    "gatsby-plugin-styled-components": "^3.1.12",
+    "gatsby-plugin-tinacms": "^0.1.9",
+    "gatsby-source-filesystem": "^2.1.36",
+    "gatsby-tinacms-git": "^0.2.7",
+    "gatsby-tinacms-remark": "^0.4.0",
+    "gatsby-transformer-remark": "^2.6.33",
+    "gatsby-transformer-sharp": "^2.3.3",
     "prop-types": "^15.7.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "react-feather": "^2.0.3",
     "react-helmet": "^5.2.1",
-    "react-to-print": "^2.4.0",
-    "styled-components": "^4.4.0"
+    "react-markdown": "^4.2.2",
+    "react-to-print": "^2.5.0",
+    "styled-components": "^4.4.1"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^1.19.1"
   },
   "keywords": [
     "gatsby"

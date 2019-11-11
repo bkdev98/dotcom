@@ -13,6 +13,14 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/content`,
+      },
+    },
+    `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-styled-components`,
@@ -32,6 +40,18 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: `UA-121546163-4`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-tinacms',
+      options: {
+        plugins: [
+          `gatsby-tinacms-remark`,
+          `gatsby-tinacms-git`,
+        ],
+        sidebar: {
+          position: 'fixed',
+        },
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

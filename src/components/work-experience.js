@@ -1,6 +1,7 @@
 import React from 'react'
 import { ExternalLink } from 'react-feather'
 import styled from 'styled-components'
+import ReactMarkdown from 'react-markdown'
 
 const Decorator = styled.div`
   position: absolute;
@@ -26,9 +27,7 @@ const WorkExperience = ({ title, companyName, companyUrl, time, location, descri
       <span>{location}</span>
     </div>
     <p>{description}</p>
-    <ul>
-      {detail.map((item, idx) => <li key={idx}>{item}</li>)}
-    </ul>
+    <ReactMarkdown source={detail} />
   </div>
 );
 
