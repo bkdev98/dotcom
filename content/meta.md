@@ -71,6 +71,12 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: qckhnh.com
+    time: 2018 - present
+    detail: |-
+      * "My writings about tech and life.
+      * Used JAMStack (Gatsby & Netlify CMS).
+    url: 'https://qckhnh.com'
   - title: QTSC OMS
     time: 11/2017 - 04/2018
     url: 'http://oms.qtsc.com.vn'
