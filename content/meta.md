@@ -71,6 +71,12 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: qckhnh.com
+    time: 2018 - present
+    url: 'https://qckhnh.com'
+    detail: |-
+      * My writings about tech and life.
+      * Used JAMStack (Gatsby & Netlify CMS).
   - title: QTSC OMS
     detail: >-
       * Operations Management Suite mobile for Quang Trung Software City.
