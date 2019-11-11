@@ -71,6 +71,14 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: QTSC OMS
+    detail: >-
+      * Operations Management Suite mobile for Quang Trung Software City.
+
+      * Used React Native with real-time messaging, Google calendar API,
+      localization & push notification.
+    url: 'http://oms.qtsc.com.vn'
+    time: 11/2017 - 04/2018
   - title: Cold Brew
     url: 'https://coldbrewapp.com'
     time: 04/2019
