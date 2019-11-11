@@ -21,25 +21,23 @@ references:
     email: duong@targeek.io
     phone: 0979477635
 workExperiences:
-  - title: Senior Software Engineer
-    companyName: Innoteq Vietnam
-    companyUrl: 'https://innoteq.vn'
-    time: 04/2018 - Present
+  - title: Full-stack Developer
+    companyName: Hisoft JSC
+    companyUrl: 'https://hisoft.vn'
+    time: 11/2017 - 04/2018
     location: 'Ho Chi Minh City, Vietnam'
+    description: >-
+      Design and develop a cross-platform mobile application for an existence
+      OMS system at QTSC.
     detail: >-
-      * Built from scratch an online Customer Relationship Management system for
-      companies at scales.
+      * Cross-platform mobile app using React Native & Redux.
 
-      * Developed and maintained a cross-platform Point of Sale solution,
-      including receipt and inventory management.
+      * Design modern mobile UI for both Android and iOS with dark mode
+      supported.
 
-      * Built several e-commerce systems for multiple client requirements using
-      MERN stack.
+      * Working with real-time messaging, Google calendar API, optimistic UI,
+      localization and push notification.
 
-      * Designed and developed a responsive & SEO optimized landing page system
-      for a real-estate company, using Gatsby and NetlifyCMS.
-
-      * Organized training workshops and seminars about React & NodeJS for
-      internships.
+      * Develop additional backend using NodeJS, SocketIO and MongoDB.
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
