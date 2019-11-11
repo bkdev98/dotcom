@@ -71,6 +71,21 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Cold Brew
+    url: 'https://coldbrewapp.com'
+    time: 04/2019
+    detail: |-
+      * Cross-platform mobile app for bill management.
+      * Using Google Vision API to process bill data.
+      * Split bill & share with friends.
+  - title: Innoteq CRM
+    time: present
+    url: 'https://crm.innoteq.vn'
+    detail: >-
+      * Customer Relationship Management system for companies at scales.
+
+      * Used React and Ant Design for front-end and Express with Mongoose for
+      back-end.
   - title: Frezh - Air quality tracker
     url: 'https://frezh.org'
     time: 10/2019
