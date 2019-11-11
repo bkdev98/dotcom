@@ -1,5 +1,5 @@
 ---
-name: Quoc Khanh
+name: BUI QUOC KHANH
 title: Senior Software Engineer
 email: bkdev98@gmail.com
 phone: +84-949840370
@@ -41,17 +41,6 @@ workExperiences:
 
       * Organized training workshops and seminars about React & NodeJS for
       internships.
-  - title: Front-end Web Developer
-    companyName: Thich Lam Moc
-    companyUrl: 'https://storelammoc.vn/'
-    time: 03/2017 - 11/2017
-    location: 'Ho Chi Minh City, Vietnam'
-    description: >-
-      Develop UI for an e-commerce system to manage customers, suppliers,
-      agencies & products.
-    detail: |-
-      * Create the admin dashboard using MaterialUI and ReactJS.
-      * Working with microservice architecture.
   - title: Full-stack Developer
     companyName: Hisoft JSC
     companyUrl: 'https://hisoft.vn'
@@ -70,5 +59,16 @@ workExperiences:
       localization and push notification.
 
       * Develop additional backend using NodeJS, SocketIO and MongoDB.
+  - title: Front-end Web Developer
+    companyName: Thich Lam Moc
+    companyUrl: 'https://storelammoc.vn/'
+    time: 03/2017 - 11/2017
+    location: 'Ho Chi Minh City, Vietnam'
+    description: >-
+      Develop UI for an e-commerce system to manage customers, suppliers,
+      agencies & products.
+    detail: |-
+      * Create the admin dashboard using MaterialUI and ReactJS.
+      * Working with microservice architecture.
 ---
 Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
