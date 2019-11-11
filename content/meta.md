@@ -1,5 +1,5 @@
 ---
-name: BUI QUOC KHANH
+name: Bui Quoc Khanh
 title: Senior Software Engineer
 email: bkdev98@gmail.com
 phone: +84-949840370
