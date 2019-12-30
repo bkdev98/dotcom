@@ -21,6 +21,13 @@ references:
     email: duong@targeek.io
     phone: 0979477635
 workExperiences:
+  - title: Mobile Developer
+    companyName: InApps
+    companyUrl: 'https://inapps.net'
+    time: 11/2019 - Present
+    location: 'Ho Chi Minh City, Vietnam'
+    detail: >-
+      * Develop and maintain mobile applications using React Native.
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
