@@ -29,11 +29,11 @@ workExperiences:
     detail: >-
       * Develop and maintain mobile applications using React Native.
 
-      * Project [Holla
+      * Projects: _[Holla
       English](https://play.google.com/store/apps/details?id=com.hollaenglish),
       Shwebucks,
       [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops),
-      [Kizuner](https://kizuner.com), Deep Connect.
+      [Kizuner](https://kizuner.com), Deep Connect_.
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
