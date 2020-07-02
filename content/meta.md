@@ -27,6 +27,8 @@ workExperiences:
     time: 11/2019 - Present
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
+      * Become a professional Avalon & Werewof player.
+
       * Develop and maintain mobile applications using React Native.
 
       * Projects: _[Holla
