@@ -26,8 +26,7 @@ workExperiences:
     companyUrl: 'https://inapps.net'
     time: 11/2019 - Present
     location: 'Ho Chi Minh City, Vietnam'
-    detail: >-
-      * Develop and maintain mobile applications using React Native.
+    detail: '* Develop and maintain mobile applications using React Native.'
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
@@ -78,6 +77,16 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Kizuner
+    url: 'https://kizuner.com'
+    time: 02/2020 - 05/2020
+    detail: >-
+      * A _"Live Without Money"_ social network in your phone.
+
+      * Built with React Native, backed using Laravel.
+
+      * Book experts, create events, make friends, transfer Kizuna and much
+      more!
   - title: VisCRM
     url: 'https://crm.innoteq.vn'
     time: Present
