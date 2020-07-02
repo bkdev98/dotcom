@@ -27,9 +27,11 @@ workExperiences:
     time: 11/2019 - Present
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
-      * Become a professional Avalon & Werewolf player
+      * Become a professional Avalon & Werewolf player.
 
       * Develop and maintain mobile applications using React Native.
+
+      * Enjoy GraphQL, MLKit, CallKit.
 
       * Projects: _[Holla
       English](https://play.google.com/store/apps/details?id=com.hollaenglish),
