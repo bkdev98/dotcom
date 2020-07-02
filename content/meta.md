@@ -26,7 +26,14 @@ workExperiences:
     companyUrl: 'https://inapps.net'
     time: 11/2019 - Present
     location: 'Ho Chi Minh City, Vietnam'
-    detail: '* Develop and maintain mobile applications using React Native.'
+    detail: >-
+      * Develop and maintain mobile applications using React Native.
+
+      * Project [Holla
+      English](https://play.google.com/store/apps/details?id=com.hollaenglish),
+      Shwebucks,
+      [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops),
+      [Kizuner](https://kizuner.com), Deep Connect.
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
