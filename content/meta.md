@@ -37,7 +37,7 @@ workExperiences:
       English](https://play.google.com/store/apps/details?id=com.hollaenglish),
       Shwebucks,
       [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops),
-      [Kizuner](https://kizuner.com), Deep Connect_.
+      [Kizuner](https://kizuner.com), [Deep Connect](https://deepconnect.app).
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
