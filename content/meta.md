@@ -31,7 +31,7 @@ workExperiences:
     time: '11/2019 - Present'
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
-      * Become a professional Avalon & Werewolf player.
+      * Become a professional UNO, Avalon & Werewolf player.
 
       * Buiding websites and web-apps in modern tech stacks.
 
@@ -41,7 +41,7 @@ workExperiences:
 
       * Host some exciting presentations, including [Deconstruct](https://quocs.com/blog/deconstruct/) which I talk about the adventure of a source code.
 
-      * Learning and applying fun tech like Tensorflow, OpenCV, BlockChain, GraphQL, MLKit, CallKit.
+      * Learning and applying cool tech like Facial Recognition, Tensorflow, OpenCV, BlockChain, GraphQL, MLKit, CallKit.
 
       * Featured projects: [RFOX.Finance](https://rfox.finance/),
       [Kizuner](https://kizuner.com), [Holla
@@ -104,7 +104,7 @@ projects:
     detail: >-
       * Earn VFOX through yield farming, then stake it in Pools to earn more VFOX tokens!
 
-      * Built with ReactJS and apply Storybook for design system.
+      * Built with ReactJS & Storybook for design system.
 
       * Work with Blockchain and Crypto.
   - title: Boss Care
@@ -155,7 +155,7 @@ projects:
 
       * Managing invoice, customer & inventory.
 
-      * Android and iOS app for staffs to create invoices remotely.
+      * Realtime Android and iOS for managers.
   - title: QTSC OMS
     detail: >-
       * Operations Management Suite mobile for Quang Trung Software City.
@@ -174,8 +174,7 @@ projects:
     time: '2017'
     url: 'https://ipeedy.com'
     detail: |-
-      * An Uber-like mobile app, create a market for small business.
-      * Built with React Native & GraphQL.
+      * An Uber-like mobile app, create a market for small business built with React Native & GraphQL.
   - detail: >-
       * A React Native boilerplate with Expo, Redux, React Navigation and Styled
       Components.
@@ -196,7 +195,6 @@ skills:
   - title: Gatsby
   - title: Express
   - title: Styled Components
-  - title: Ant Design
   - title: Mongoose
 ---
 Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
