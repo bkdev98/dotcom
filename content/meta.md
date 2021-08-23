@@ -1,6 +1,6 @@
 ---
 name: Bui Quoc Khanh
-title: Senior Software Engineer
+title: FullStack JS Developer
 email: bkdev98@gmail.com
 phone: +84-949840370
 address: 'Ho Chi Minh City, Vietnam'
