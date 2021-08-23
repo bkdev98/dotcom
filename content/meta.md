@@ -1,6 +1,6 @@
 ---
 name: Bui Quoc Khanh
-title: FullStack JS Developer
+title: Full-Stack Developer
 email: bkdev98@gmail.com
 phone: +84-949840370
 address: 'Ho Chi Minh City, Vietnam'
@@ -8,6 +8,10 @@ website: buiquockhanh.com
 linkedin: linkedin.com/in/bkdev98
 github: github.com/bkdev98
 references:
+  - name: Ho Van Tam
+    position: 'Chief Executive Officer at InApps Technology'
+    email: tam.ho@inapps.net
+    phone: 0906339450
   - name: Bui Thanh Khoa
     position: 'Chief Executive Officer at Innoteq Co., Ltd.'
     email: khoabt@innoteq.vn
@@ -21,23 +25,25 @@ references:
     email: duong@targeek.io
     phone: 0979477635
 workExperiences:
-  - title: Mobile Developer
-    companyName: InApps
+  - title: Full-Stack Developer
+    companyName: InApps Technology
     companyUrl: 'https://inapps.net'
     time: 11/2019 - Present
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
       * Become a professional Avalon & Werewolf player.
 
+      * Buiding webapps in modern tech stacks.
+
       * Develop and maintain mobile applications using React Native.
 
       * Enjoy GraphQL, MLKit, CallKit.
 
-      * Projects: _[Holla
+      * Projects: [RFOX.Finance](https://rfox.finance/),
+      [Kizuner](https://kizuner.com), [Holla
       English](https://play.google.com/store/apps/details?id=com.hollaenglish),
       Shwebucks,
-      [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops),
-      [Kizuner](https://kizuner.com), [Deep Connect](https://deepconnect.app).
+      [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops), [Deep Connect](https://deepconnect.app).
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
@@ -88,19 +94,49 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: RFOX.Finance
+    url: 'https://rfox.finance'
+    time: 2021
+    detail: >-
+      * Earn VFOX through yield farming, then stake it in Pools to earn more VFOX tokens!
+
+      * Built with ReactJS and apply Storybook for design system.
+
+      * Work with Blockchain and Crypto.
+  - title: Boss Care
+    url: 'https://bosscare.quocs.com'
+    time: 2021 - Present
+    detail: >-
+      * All types of services for your pet.
+
+      * Side project mobile application provide booking services for your little boss: Veterinary, grooming, training,...
+      
+      * Mobile app using React Native and URQL, GraphQL API and landing page using Gatsby.
+  - title: Suc Khoe Oi
+    url: 'https://suckhoeoi.vn'
+    time: 02/2021 - 06/2021
+    detail: >-
+      * E-Commerce solution for a startup company focused on health products.
+
+      * Website using Wordpress and WooCommerce, mobile apps using React Native.
   - title: Kizuner
     url: 'https://kizuner.com'
     time: 02/2020 - 05/2020
     detail: >-
-      * A _"Live Without Money"_ social network in your phone.
+      * A _"Do What You Love"_ social network in your phone.
 
       * Built with React Native, backed using Laravel.
 
       * Book experts, create events, make friends, transfer Kizuna and much
       more!
+  - title: React Native Incoming Call
+    url: 'https://github.com/bkdev98/react-native-incoming-call'
+    time: 2020
+    detail: >-
+      * React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
   - title: VisCRM
     url: 'https://crm.innoteq.vn'
-    time: Present
+    time: 2019 - 2020
     detail: >-
       * Customer Relationship Management system for companies at scales.
 
@@ -159,12 +195,12 @@ projects:
     title: React Native Boilerplate
     time: '2017'
 skills:
+  - title: TypeScript
   - title: ReactJS
   - title: React Native
   - title: NodeJS
   - title: Redux
   - title: Electron
-  - title: Expo
   - title: GraphQL
   - title: SocketIO
   - title: Gatsby
@@ -173,4 +209,4 @@ skills:
   - title: Ant Design
   - title: Mongoose
 ---
-Experienced full-stack developer with 3+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
+Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in TypeScript, ReactJS, React Native, NodeJS and Electron.
