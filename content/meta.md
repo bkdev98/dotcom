@@ -33,17 +33,21 @@ workExperiences:
     detail: >-
       * Become a professional Avalon & Werewolf player.
 
-      * Buiding webapps in modern tech stacks.
+      * Buiding websites and web-apps in modern tech stacks.
 
       * Develop and maintain mobile applications using React Native.
 
-      * Enjoy GraphQL, MLKit, CallKit.
+      * Work on multiple company and client projects.
 
-      * Projects: [RFOX.Finance](https://rfox.finance/),
+      * Host some exciting presentations, including [Deconstruct](https://quocs.com/blog/deconstruct/) which I talk about the adventure of a source code.
+
+      * Learning and applying fun tech like Tensorflow, OpenCV, BlockChain, GraphQL, MLKit, CallKit.
+
+      * Featured projects: [RFOX.Finance](https://rfox.finance/),
       [Kizuner](https://kizuner.com), [Holla
-      English](https://play.google.com/store/apps/details?id=com.hollaenglish),
+      English](https://play.google.com/store/apps/details?id=com.hollaenglish), [Deep Connect](https://deepconnect.app),
       Shwebucks,
-      [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops), [Deep Connect](https://deepconnect.app).
+      [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops).
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
@@ -152,13 +156,6 @@ projects:
       * Managing invoice, customer & inventory.
 
       * Android and iOS app for staffs to create invoices remotely.
-  - title: Frezh - Air quality tracker
-    url: 'https://frezh.org'
-    time: '10/2019'
-    detail: |-
-      * Track air quality data all over the world in minimalist design.
-      * Made with Expo & used data from OpenAQ.
-      * Available on both Google Play and App Store.
   - title: QTSC OMS
     detail: >-
       * Operations Management Suite mobile for Quang Trung Software City.
@@ -169,17 +166,10 @@ projects:
     time: '11/2017 - 04/2018'
   - title: qckhnh.com
     time: '2018 - present'
-    url: 'https://qckhnh.com'
+    url: 'https://archived.quocs.com/'
     detail: |-
       * My writings about tech and life.
       * Used JAMStack (Gatsby & Netlify CMS).
-  - title: Cold Brew
-    url: 'https://coldbrewapp.com'
-    time: '04/2019'
-    detail: |-
-      * Cross-platform mobile app for bill management.
-      * Using Google Vision API to process bill data.
-      * Split bill & share with friends.
   - title: Ipeedy
     time: '2017'
     url: 'https://ipeedy.com'
@@ -209,4 +199,4 @@ skills:
   - title: Ant Design
   - title: Mongoose
 ---
-Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in TypeScript, ReactJS, React Native, NodeJS and Electron.
+Experienced full-stack developer with 4+ years in developing and managing modern web and mobile apps with a demonstrated history of working in the tech start-up space. Skilled in ReactJS, React Native, NodeJS and Electron.
