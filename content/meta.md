@@ -131,7 +131,7 @@ projects:
       more!
   - title: React Native Incoming Call
     url: 'https://github.com/bkdev98/react-native-incoming-call'
-    time: 2020
+    time: '2020'
     detail: >-
       * React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
   - title: VisCRM
