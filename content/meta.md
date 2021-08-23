@@ -28,7 +28,7 @@ workExperiences:
   - title: Full-Stack Developer
     companyName: InApps Technology
     companyUrl: 'https://inapps.net'
-    time: 11/2019 - Present
+    time: '11/2019 - Present'
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
       * Become a professional Avalon & Werewolf player.
@@ -47,7 +47,7 @@ workExperiences:
   - title: Senior Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
-    time: 04/2018 - Present
+    time: '04/2018 - Present'
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
       * Built from scratch an online Customer Relationship Management system for
@@ -67,7 +67,7 @@ workExperiences:
   - title: Full-stack Developer
     companyName: Hisoft JSC
     companyUrl: 'https://hisoft.vn'
-    time: 11/2017 - 04/2018
+    time: '11/2017 - 04/2018'
     location: 'Ho Chi Minh City, Vietnam'
     description: >-
       Design and develop a cross-platform mobile application for an existence
@@ -85,7 +85,7 @@ workExperiences:
   - title: Front-end Web Developer
     companyName: Thich Lam Moc
     companyUrl: 'https://storelammoc.vn/'
-    time: 03/2017 - 11/2017
+    time: '03/2017 - 11/2017'
     location: 'Ho Chi Minh City, Vietnam'
     description: >-
       Develop UI for an e-commerce system to manage customers, suppliers,
@@ -96,7 +96,7 @@ workExperiences:
 projects:
   - title: RFOX.Finance
     url: 'https://rfox.finance'
-    time: 2021
+    time: '2021'
     detail: >-
       * Earn VFOX through yield farming, then stake it in Pools to earn more VFOX tokens!
 
@@ -105,7 +105,7 @@ projects:
       * Work with Blockchain and Crypto.
   - title: Boss Care
     url: 'https://bosscare.quocs.com'
-    time: 2021 - Present
+    time: '2021 - Present'
     detail: >-
       * All types of services for your pet.
 
@@ -114,14 +114,14 @@ projects:
       * Mobile app using React Native and URQL, GraphQL API and landing page using Gatsby.
   - title: Suc Khoe Oi
     url: 'https://suckhoeoi.vn'
-    time: 02/2021 - 06/2021
+    time: '02/2021 - 06/2021'
     detail: >-
       * E-Commerce solution for a startup company focused on health products.
 
       * Website using Wordpress and WooCommerce, mobile apps using React Native.
   - title: Kizuner
     url: 'https://kizuner.com'
-    time: 02/2020 - 05/2020
+    time: '02/2020 - 05/2020'
     detail: >-
       * A _"Do What You Love"_ social network in your phone.
 
@@ -136,7 +136,7 @@ projects:
       * React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
   - title: VisCRM
     url: 'https://crm.innoteq.vn'
-    time: 2019 - 2020
+    time: '2019 - 2020'
     detail: >-
       * Customer Relationship Management system for companies at scales.
 
@@ -144,7 +144,7 @@ projects:
       back-end.
   - title: Innoteq POS
     url: 'https://phanmemquanlytinhtien.com'
-    time: 2018 - 2019
+    time: '2018 - 2019'
     detail: >-
       * Cross-platform Point of Sale system for restaurants, coffee shops and
       grocery stores.
@@ -154,7 +154,7 @@ projects:
       * Android and iOS app for staffs to create invoices remotely.
   - title: Frezh - Air quality tracker
     url: 'https://frezh.org'
-    time: 10/2019
+    time: '10/2019'
     detail: |-
       * Track air quality data all over the world in minimalist design.
       * Made with Expo & used data from OpenAQ.
@@ -166,16 +166,16 @@ projects:
       * Used React Native with real-time messaging, Google calendar API,
       localization & push notification.
     url: 'http://oms.qtsc.com.vn'
-    time: 11/2017 - 04/2018
+    time: '11/2017 - 04/2018'
   - title: qckhnh.com
-    time: 2018 - present
+    time: '2018 - present'
     url: 'https://qckhnh.com'
     detail: |-
       * My writings about tech and life.
       * Used JAMStack (Gatsby & Netlify CMS).
   - title: Cold Brew
     url: 'https://coldbrewapp.com'
-    time: 04/2019
+    time: '04/2019'
     detail: |-
       * Cross-platform mobile app for bill management.
       * Using Google Vision API to process bill data.
