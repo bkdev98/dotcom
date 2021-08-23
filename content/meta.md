@@ -16,6 +16,10 @@ references:
     position: 'Chief Executive Officer at Innoteq Co., Ltd.'
     email: khoabt@innoteq.vn
     phone: 0948091402
+  - name: Ngo Dang Ha An
+    position: General Manager at Hisoft JSC
+    email: an.ngo@hisoft.vn
+    phone: 0906782333
   - name: Do Cao Thuong Duong
     position: Founder & CTO at Targeek JSC
     email: duong@targeek.io
@@ -75,6 +79,9 @@ workExperiences:
     detail: >-
       * Cross-platform mobile app using React Native & Redux.
 
+      * Design modern mobile UI for both Android and iOS with dark mode
+      supported.
+
       * Working with real-time messaging, Google calendar API, optimistic UI,
       localization and push notification.
 
@@ -131,6 +138,14 @@ projects:
     time: '2020'
     detail: >-
       * React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
+  - title: VisCRM
+    url: 'https://crm.innoteq.vn'
+    time: '2019 - 2020'
+    detail: >-
+      * Customer Relationship Management system for companies at scales.
+
+      * Used React and Ant Design for front-end and Express with Mongoose for
+      back-end.
   - title: Innoteq POS
     url: 'https://phanmemquanlytinhtien.com'
     time: '2018 - 2019'
@@ -164,6 +179,7 @@ projects:
       * A React Native boilerplate with Expo, Redux, React Navigation and Styled
       Components.
 
+      * My highest-star project on Github.
     url: 'https://github.com/ipeedy/react-native-boilerplate'
     title: React Native Boilerplate
     time: '2017'

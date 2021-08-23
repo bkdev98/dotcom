@@ -6,7 +6,7 @@ import styled from 'styled-components'
 import "./layout.css"
 
 const PrintArea = styled.main`
-  padding: 30px;
+  padding: 40px 60px;
   @media (max-width: 808px) {
     padding: 20px;
   }
@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         >
           {children}
         </PrintArea>
-        {/* <footer style={{
+        <footer style={{
           textAlign: 'center',
           marginTop: 10,
           fontSize: 13,
@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
             />
           </PrintButton>
           <span style={{ marginRight: 20 }}>Made with <a href="https://www.gatsbyjs.org">Gatsby</a></span>
-        </footer> */}
+        </footer>
       </div>
     </>
   )

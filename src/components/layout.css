@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Inter|Playfair+Display&display=swap&subset=vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Playfair+Display&display=swap&subset=vietnamese');
 
 @page {
   size: A4;
@@ -27,14 +27,14 @@
 }
 
 html {
-  font-family: 'Inter', serif;
+  font-family: 'Playfair Display', serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
 body {
   margin: 0;
-  /* background-color: #EED4CD; */
+  background-color: #EED4CD;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -274,7 +274,7 @@ html {
 
 body {
   color: #333333;
-  font-family: 'Inter', serif;
+  font-family: 'Playfair Display', serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -307,7 +307,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Inter', monospace;
+  font-family: 'Major Mono Display', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
@@ -324,7 +324,7 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Inter', monospace;
+  font-family: 'Major Mono Display', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
@@ -341,7 +341,7 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Inter', monospace;
+  font-family: 'Major Mono Display', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.38316rem;
@@ -358,7 +358,7 @@ h4 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Inter', monospace;
+  font-family: 'Major Mono Display', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
@@ -375,7 +375,7 @@ h5 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Inter', monospace;
+  font-family: 'Major Mono Display', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.85028rem;
@@ -392,7 +392,7 @@ h6 {
   padding-top: 0;
   margin-bottom: 0;
   color: inherit;
-  font-family: 'Inter', monospace;
+  font-family: 'Major Mono Display', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.78405rem;

@@ -18,7 +18,7 @@ const Decorator = styled.div`
 const WorkExperience = ({ title, companyName, companyUrl, time, location, description, detail }) => (
   <div style={{ marginBottom: 20 }}>
     <div style={{ position: 'relative' }}>
-      {/* <Decorator /> */}
+      <Decorator />
       <h5 style={{ marginBottom: 5 }}>{title}</h5>
       <a href={companyUrl}>{companyName}<ExternalLink color='#333' size={14} style={{ marginLeft: 5, verticalAlign: 'middle' }} /></a>
     </div>
