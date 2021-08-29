@@ -175,19 +175,14 @@ projects:
     detail: |-
       * My writings about tech and life.
       * Used JAMStack (Gatsby & Netlify CMS).
-  - title: Ipeedy
-    time: '2017'
-    url: 'https://ipeedy.com'
-    detail: |-
-      * An Uber-like mobile app, create a market for small business built with React Native & GraphQL.
-  <!--   - detail: >-
+  - detail: >-
       * A React Native boilerplate with Expo, Redux, React Navigation and Styled
       Components.
 
       * My highest-star project on Github.
     url: 'https://github.com/ipeedy/react-native-boilerplate'
     title: React Native Boilerplate
-    time: '2017' -->
+    time: '2017'
 skills:
   - title: TypeScript
   - title: ReactJS
