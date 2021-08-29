@@ -102,7 +102,7 @@ projects:
     url: 'https://loyalory.com'
     time: 'In Progress'
     detail: >-
-      * Mobile loyalty solution for your brand in 60 seconds.
+      * Mobile loyalty solution for your brand (in 60 seconds).
   - title: RFOX.Finance
     url: 'https://rfox.finance'
     time: '2021'
