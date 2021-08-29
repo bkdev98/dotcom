@@ -4,7 +4,7 @@ title: Full-Stack Developer
 email: bkdev98@gmail.com
 phone: +84-949840370
 address: 'Ho Chi Minh City, Vietnam'
-website: buiquockhanh.com
+website: quocs.com
 linkedin: linkedin.com/in/bkdev98
 github: github.com/bkdev98
 references:
@@ -98,6 +98,11 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
+  - title: Loyalory
+    url: 'https://loyalory'
+    time: 'In Progress'
+    detail: >-
+      * Mobile loyalty solution for your brand in 60 seconds.
   - title: RFOX.Finance
     url: 'https://rfox.finance'
     time: '2021'
@@ -175,14 +180,14 @@ projects:
     url: 'https://ipeedy.com'
     detail: |-
       * An Uber-like mobile app, create a market for small business built with React Native & GraphQL.
-  - detail: >-
+  <!--   - detail: >-
       * A React Native boilerplate with Expo, Redux, React Navigation and Styled
       Components.
 
       * My highest-star project on Github.
     url: 'https://github.com/ipeedy/react-native-boilerplate'
     title: React Native Boilerplate
-    time: '2017'
+    time: '2017' -->
 skills:
   - title: TypeScript
   - title: ReactJS
