@@ -99,7 +99,7 @@ workExperiences:
       * Working with microservice architecture.
 projects:
   - title: Loyalory
-    url: 'https://loyalory'
+    url: 'https://loyalory.com'
     time: 'In Progress'
     detail: >-
       * Mobile loyalty solution for your brand in 60 seconds.
