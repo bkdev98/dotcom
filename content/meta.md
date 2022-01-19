@@ -46,7 +46,7 @@ workExperiences:
   - title: Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
-    time: '04/2018 - Present'
+    time: '04/2018 - 2020'
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
       * Built from scratch an online Customer Relationship Management system for
@@ -140,14 +140,6 @@ projects:
     time: '2020'
     detail: >-
       * React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
-  - title: VisCRM
-    url: 'https://crm.innoteq.vn'
-    time: '2019 - 2020'
-    detail: >-
-      * Customer Relationship Management system for companies at scales.
-
-      * Used React and Ant Design for front-end and Express with Mongoose for
-      back-end.
   - title: Innoteq POS
     url: 'https://phanmemquanlytinhtien.com'
     time: '2018 - 2019'
