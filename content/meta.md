@@ -35,11 +35,9 @@ workExperiences:
 
       * Buiding websites and web-apps in modern tech stacks.
 
-      * Work on multiple company and client projects.
-
       * Host some exciting presentations, including [Deconstruct](https://quocs.com/blog/deconstruct/) which I talk about the adventure of a source code.
 
-      * Learning and applying cool tech like Facial Recognition, Tensorflow, OpenCV, BlockChain, GraphQL, MLKit, CallKit.
+      * Learning and applying cool tech like Facial Recognition, Tensorflow, Web3, GraphQL, MLKit, CallKit.
 
       * Featured projects: [Kizuner](https://kizuner.com), [BidBid](https://bidbid.app), [RFOX.Finance](https://rfox.finance/), [Holla
       English](https://play.google.com/store/apps/details?id=com.hollaenglish), [Deep Connect](https://play.google.com/store/apps/details?id=com.deepconnect), [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops).
@@ -49,8 +47,7 @@ workExperiences:
     time: '04/2018 - 2020'
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
-      * Built from scratch an online Customer Relationship Management system for
-      companies at scales.
+      * Built from scratch an online SAAS CRM system.
 
       * Developed and maintained a cross-platform Point of Sale solution,
       including receipt and inventory management.
@@ -78,7 +75,7 @@ workExperiences:
       supported.
 
       * Working with real-time messaging, Google calendar API, optimistic UI,
-      localization and push notification.
+      localization & push notification.
 
       * Develop additional backend using NodeJS, SocketIO and MongoDB.
   - title: Front-end Web Developer
@@ -90,8 +87,7 @@ workExperiences:
       Develop UI for an e-commerce system to manage customers, suppliers,
       agencies & products.
     detail: |-
-      * Create the admin dashboard using MaterialUI and ReactJS.
-      * Working with microservice architecture.
+      * Develop the dashboard for suppliers in ReactJS & MaterialUI.
 projects:
   - title: BidBid
     url: 'https://bidbid.app'
