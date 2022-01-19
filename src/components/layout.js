@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         >
           {children}
         </PrintArea>
-        <footer style={{
+        {/* <footer style={{
           textAlign: 'center',
           marginTop: 10,
           fontSize: 13,
@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
             />
           </PrintButton>
           <span style={{ marginRight: 20 }}>Made with <a href="https://www.gatsbyjs.org">Gatsby</a></span>
-        </footer>
+        </footer> */}
       </div>
     </>
   )

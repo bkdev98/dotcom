@@ -34,7 +34,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #EED4CD;
+  /* background-color: #EED4CD; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
