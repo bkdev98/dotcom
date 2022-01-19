@@ -1,6 +1,6 @@
 ---
 name: Bui Quoc Khanh
-title: Full-Stack Developer
+title: Mobile Developer
 email: bkdev98@gmail.com
 phone: +84-949840370
 address: 'Ho Chi Minh City, Vietnam'
@@ -25,17 +25,15 @@ references:
     email: duong@targeek.io
     phone: 0979477635
 workExperiences:
-  - title: Full-Stack Developer
+  - title: Mobile Developer
     companyName: InApps Technology
     companyUrl: 'https://inapps.net'
     time: '11/2019 - Present'
     location: 'Ho Chi Minh City, Vietnam'
     detail: >-
-      * Become a professional UNO, Avalon & Werewolf player.
+      * Develop and maintain mobile applications using React Native.
 
       * Buiding websites and web-apps in modern tech stacks.
-
-      * Develop and maintain mobile applications using React Native.
 
       * Work on multiple company and client projects.
 
@@ -43,12 +41,9 @@ workExperiences:
 
       * Learning and applying cool tech like Facial Recognition, Tensorflow, OpenCV, BlockChain, GraphQL, MLKit, CallKit.
 
-      * Featured projects: [RFOX.Finance](https://rfox.finance/),
-      [Kizuner](https://kizuner.com), [Holla
-      English](https://play.google.com/store/apps/details?id=com.hollaenglish), [Deep Connect](https://deepconnect.app),
-      Shwebucks,
-      [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops).
-  - title: Senior Software Engineer
+      * Featured projects: [Kizuner](https://kizuner.com), [BidBid](https://bidbid.app), [RFOX.Finance](https://rfox.finance/), [Holla
+      English](https://play.google.com/store/apps/details?id=com.hollaenglish), [Deep Connect](https://play.google.com/store/apps/details?id=com.deepconnect), [Travelloops](https://play.google.com/store/apps/details?id=com.travelloops).
+  - title: Software Engineer
     companyName: Innoteq Vietnam
     companyUrl: 'https://innoteq.vn'
     time: '04/2018 - Present'
@@ -98,11 +93,13 @@ workExperiences:
       * Create the admin dashboard using MaterialUI and ReactJS.
       * Working with microservice architecture.
 projects:
-  - title: Loyalory
-    url: 'https://loyalory.com'
-    time: 'In Progress'
+  - title: BidBid
+    url: 'https://bidbid.app'
+    time: '2021 - Present'
     detail: >-
-      * Mobile loyalty solution for your brand (in 60 seconds).
+      * An auction-based all in one app for Career, Social, & Dating connections.
+
+      * Develop new features in React Native, Redux Saga & SocketIO.
   - title: RFOX.Finance
     url: 'https://rfox.finance'
     time: '2021'
@@ -114,7 +111,7 @@ projects:
       * Work with Blockchain and Crypto.
   - title: Boss Care
     url: 'https://bosscare.quocs.com'
-    time: '2021 - Present'
+    time: 'In progress'
     detail: >-
       * All types of services for your pet.
 
@@ -193,7 +190,8 @@ skills:
   - title: GraphQL
   - title: SocketIO
   - title: Gatsby
-  - title: Express
+  - title: Urql
+  - title: React Query
   - title: Styled Components
   - title: Mongoose
 ---
