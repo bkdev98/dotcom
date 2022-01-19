@@ -6,9 +6,9 @@ import styled from 'styled-components'
 import "./layout.css"
 
 const PrintArea = styled.main`
-  padding: 40px 60px;
+  padding: 20px 39px;
   @media (max-width: 808px) {
-    padding: 20px;
+    padding: 15px;
   }
 `
 
@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
       <div style={{
         maxWidth: 1024,
         margin: '0px auto',
-        padding: 20,
+        padding: 15,
       }}>
         <PrintArea
           ref={componentRef}
